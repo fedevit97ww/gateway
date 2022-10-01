@@ -1,0 +1,20 @@
+{
+    "productList": [
+        {
+            "name": "Ipad",
+            "value": 500
+        },
+        {
+            "name": "IPhone 14",
+            "value": 1400
+        },
+        {
+            "name": "Apple Watch",
+            "value": 400
+        },
+        {
+            "name": "MacBook",
+            "value": 1100
+        }
+    ]
+}
